@@ -1,16 +1,61 @@
-### Hi there 👋
+<header>
+  <h1>ROLAND LIEDTKE</h1>
+  <p>Junior Frontend Developer</p>
+</header>
 
-<!--
-**roland-liedtke/roland-liedtke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+  <h2> PROFILE </h2>
+    <p> My first coding experience was in secondary school, however I chose music as the way to go and graduated Art       Education in Music with Bachelor's Degree. Personally, I see huge similarities between music and software             engineering - especially when it comes to constant practise. I'm a highly motivated person focused on increasing       my knowledge every day, when working within a team or alone, by maintaining proactive approach and constantly         developing problem-solving skills. </p>
 
-Here are some ideas to get you started:
+  <h2> WORK EXPERIENCE </h2>
+    <h3>
+      <a href="https://www.verte.dev/"> Verte.Dev </a>
+    </h3>
+    <p> Junior Frontend Developer </p>
+    <p> nov 2021 - present </p>
+    <ul>
+      <li> Coding in JavaScript/TypeScript </li>
+      <li> Manual Testing </li>
+      <li> Bugs Reporting </li>
+      <li> Implementation of internationalization </li>
+    </ul>
+  
+  <h2> EDUCATION </h2>
+    <h3> Art Education in Music </h3>
+      <p> 
+        <a href="https://www.apsl.edu.pl/" target="_blank"> Pomeranian University in Slupsk </a>
+      </p>
+    <p> Bachelor's Degree </p>
+    <p> 2013 - 2016 </p>
+    <h3> Information Technology </h3>
+      <p> 
+        <a href="http://www.pzs1.pl/#sid=submenu1" target="_blank"> PZS nr 1 in Koscierzyna </a>
+      </p>
+    <p> IT Specialist </p>
+    <p> 2009 - 2013 </p>
+  
+  <h2> SKILLS </h2>
+    <ul>
+      <li> Basic React JS </li>
+      <li> Basic JavaScript </li>
+      <li> Basic REST API </li>
+      <li> Basic SCM - git </li>
+      <li> Basic CSS </li>
+      <li> Basic HTML and HTML5 </li>
+      <li> Manual Testing </li>
+    </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2> TOOLS </h2>
+    <ul>
+      <li> GitHub </li>
+      <li> Jira </li>
+      <li> Slack </li>
+      <li> iTerm </li>
+      <li> Visual Studio Code </li>
+      <li> SourceTree </li>
+    </ul>
+</body>
+
+<footer>
+  <p><i> 2022 | powered by roland-liedtke </i></p>
+</footer>
