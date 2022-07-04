@@ -41,8 +41,8 @@
       <li> Basic REST API </li>
       <li> Basic SCM - git </li>
       <li> Basic CMS - WordPress </li>
-      <li> Basic CSS </li>
-      <li> HTML and HTML5 </li>
+      <li> Basic CSS and RWD</li>
+      <li> HTML5 </li>
       <li> Manual Testing </li>
     </ul>
 
