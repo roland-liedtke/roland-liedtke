@@ -42,7 +42,7 @@
       <li> Basic SCM - git </li>
       <li> Basic CMS - WordPress </li>
       <li> Basic CSS </li>
-      <li> Regular HTML and HTML5 </li>
+      <li> HTML and HTML5 </li>
       <li> Manual Testing </li>
     </ul>
 
@@ -53,6 +53,7 @@
       <li> Slack </li>
       <li> iTerm </li>
       <li> Visual Studio Code </li>
+      <li> Xcode & Android Studio </li>
       <li> SourceTree </li>
     </ul>
 </body>
