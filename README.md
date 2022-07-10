@@ -36,12 +36,9 @@
   
   <h2> SKILLS </h2>
     <ul>
-      <li> Basic React JS </li>
-      <li> Basic JavaScript </li>
-      <li> Basic REST API </li>
       <li> Basic SCM - git </li>
-      <li> Basic CMS - WordPress </li>
-      <li> CSS3 & RWD</li>
+      <li> Basic CMS - WordPress, WooCommerce </li>
+      <li> CSS3 & RWD & Accessibility </li>
       <li> HTML5 </li>
       <li> Manual Testing </li>
     </ul>
