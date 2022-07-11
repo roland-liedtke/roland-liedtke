@@ -38,7 +38,7 @@
     <ul>
       <li> Basic SCM - git </li>
       <li> Basic CMS - WordPress, WooCommerce </li>
-      <li> CSS3 & RWD & Accessibility </li>
+      <li> CSS3 & RWD </li>
       <li> HTML5 </li>
       <li> Manual Testing </li>
     </ul>
