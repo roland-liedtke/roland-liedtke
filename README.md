@@ -42,6 +42,7 @@
       <li> JavaScript - basics </li>
       <li> React.js - basics </li>
       <li> ReactNative - basics </li>
+      <li> Bootstrap 5 - in progress </li>
       <li> RWD </li>
       <li> CSS3 </li>
       <li> HTML5 </li>
