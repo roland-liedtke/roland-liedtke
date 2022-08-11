@@ -40,6 +40,7 @@
   <h2> SKILLS </h2>
     <ul>
       <li> JavaScript - basics </li>
+      <li> Wordpress - basics </li>
       <li> RWD </li>
       <li> CSS3 </li>
       <li> HTML5 </li>
