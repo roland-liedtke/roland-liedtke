@@ -39,7 +39,7 @@
   
   <h2> SKILLS </h2>
     <ul>
-      <li> JavaScript - basics </li>
+      <li> JavaScript - basics - ES5 2009 </li>
       <li> Wordpress - basics </li>
       <li> RWD </li>
       <li> CSS3 </li>
