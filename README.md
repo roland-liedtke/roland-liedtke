@@ -24,12 +24,21 @@
     </ul>
   
   <h2> EDUCATION </h2>
+    <h3> Computer Science </h3>
+      <p> 
+        <a href="https://www.pja.edu.pl/" target="_blank"> Polish-Japanese Academy
+of Information Technology in Gdansk </a>
+      </p>
+    <p> Engineer </p>
+    <p> 2022 - present </p>
+    
     <h3> Art Education in Music </h3>
       <p> 
         <a href="https://www.apsl.edu.pl/" target="_blank"> Pomeranian University in Slupsk </a>
       </p>
     <p> Bachelor's Degree </p>
     <p> 2013 - 2016 </p>
+    
     <h3> Information Technology </h3>
       <p> 
         <a href="http://www.pzs1.pl/#sid=submenu1" target="_blank"> PZS nr 1 in Koscierzyna </a>
