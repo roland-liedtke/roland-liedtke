@@ -31,18 +31,13 @@ of Information Technology in Gdansk </a>
       </p>
     <p> Engineer </p>
     <p> 2022 - present </p>
+    
     <h3> Art Education in Music </h3>
       <p> 
         <a href="https://www.apsl.edu.pl/" target="_blank"> Pomeranian University in Slupsk </a>
       </p>
     <p> Bachelor's Degree </p>
     <p> 2013 - 2016 </p>
-    <h3> Information Technology </h3>
-      <p> 
-        <a href="http://www.pzs1.pl/#sid=submenu1" target="_blank"> PZS nr 1 in Koscierzyna </a>
-      </p>
-    <p> IT Specialist </p>
-    <p> 2009 - 2013 </p>
   
   <h2> SKILLS </h2>
     <ul>
@@ -62,11 +57,8 @@ of Information Technology in Gdansk </a>
     <ul>
       <li> GitHub </li>
       <li> Jira </li>
-      <li> Slack </li>
-      <li> iTerm </li>
       <li> Visual Studio Code </li>
       <li> Xcode & Android Studio </li>
-      <li> SourceTree </li>
     </ul>
 </body>
 
