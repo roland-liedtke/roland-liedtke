@@ -26,7 +26,6 @@ of Information Technology in Gdansk </a>
     <ul>
       <li> JavaScript - basics - ES5 2009 </li>
       <li> C++ - basics </li>
-      <li> PHP - basics </li>
       <li> Wordpress - basics </li>
       <li> RWD </li>
       <li> CSS3 </li>
