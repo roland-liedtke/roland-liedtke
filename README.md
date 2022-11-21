@@ -24,13 +24,12 @@ of Information Technology in Gdansk </a>
   
   <h2> SKILLS </h2>
     <ul>
-      <li> JavaScript - basics - ES5 2009 </li>
+      <li> JavaScript - medium - ES5 2009 </li>
       <li> C++ - basics </li>
       <li> Wordpress - basics </li>
-      <li> RWD </li>
-      <li> CSS3 </li>
+      <li> Git | GitFlow </li>
+      <li> CSS3 | SASS | RWD </li>
       <li> HTML5 </li>
-      <li> Git / GitFlow </li>
       <li> Linux - basics </li>
       <li> Manual Testing </li>
     </ul><br>
@@ -38,7 +37,7 @@ of Information Technology in Gdansk </a>
   <h2> TOOLS </h2>
     <ul>
       <li> GitHub </li>
-      <li> Jira </li>
+      <li> Jira, Discord, MS Teams, Slack </li>
       <li> Visual Studio Code </li>
       <li> Xcode & Android Studio </li>
     </ul>
