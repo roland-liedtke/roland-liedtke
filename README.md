@@ -1,6 +1,5 @@
 <header>
   <h1>ROLAND LIEDTKE</h1>
-  <p>Frontend Developer</p>
 </header>
 
 <body>
@@ -13,13 +12,13 @@
         <a href="https://www.pja.edu.pl/" target="_blank"> Polish-Japanese Academy
 of Information Technology in Gdansk </a>
       </p>
-    <p> Engineer </p>
+    <p> Freshman </p>
     <p> 2022 - present </p><br>
     <h3> Art Education in Music </h3>
       <p> 
         <a href="https://www.apsl.edu.pl/" target="_blank"> Pomeranian University in Slupsk </a>
       </p>
-    <p> Bachelor's Degree </p>
+    <p> Bachelor of Arts Degree </p>
     <p> 2013 - 2016 </p><br>
   
   <h2> SKILLS </h2>
