@@ -24,13 +24,12 @@ of Information Technology in Gdansk </a>
   <h2> SKILLS </h2>
     <ul>
       <li> JavaScript - ES5 2009 </li>
-      <li> C++ </li>
+      <li> C++ basics </li>
       <li> Wordpress </li>
       <li> git </li>
       <li> CSS3 | SASS | RWD </li>
       <li> HTML5 </li>
-      <li> Bash </li>
-      <li> Manual Testing </li>
+      <li> Linux </li>
     </ul><br>
 
   <h2> TOOLS </h2>
