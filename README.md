@@ -25,6 +25,7 @@ of Information Technology in Gdansk </a>
     <ul>
       <li> JavaScript - ES5 2009 </li>
       <li> C++ basics </li>
+      <li> PHP basics </li>
       <li> Wordpress </li>
       <li> git </li>
       <li> CSS3 | SASS | RWD </li>
@@ -36,7 +37,7 @@ of Information Technology in Gdansk </a>
     <ul>
       <li> GitHub </li>
       <li> Jira, Discord, MS Teams, Slack </li>
-      <li> Visual Studio Code </li>
+      <li> Visual Studio Code, CodeBlocks </li>
       <li> Xcode & Android Studio </li>
     </ul>
 </body>
