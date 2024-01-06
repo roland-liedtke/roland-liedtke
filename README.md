@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roland!</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [EPG Module](https://telewizjabiznesowa.pl/program-tv/)
+- 🔭 I’m currently working on [Julia Podsiadło Design - website rebranding](https://podsiadlodesign.pl/)
 
 - 🌱 I’m currently learning **jQuery**
 
