@@ -7,4 +7,4 @@
 - 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/roland-liedtke)
 - 📫 How to reach me **hello@rolandliedtke.me**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roland-liedtke&show_icons=true&locale=en&layout=compact" alt="roland-liedtke" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="roland-liedtke" /></p>
