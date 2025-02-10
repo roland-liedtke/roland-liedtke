@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Roland!</h1>
-<h3>A passionate fullstack developer from Poland</h3>
+<h3>An IT Support Analyst and Junior Software Developer with a passion for music from Poland</h3>
 
 - 🔭 I’m currently working on [Arduino Projects](https://github.com/roland-liedtke/Embedded)
 - 🌱 I’m currently learning **Software Development Lifecycle**
